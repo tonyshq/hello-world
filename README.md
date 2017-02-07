@@ -1,2 +1,2 @@
 # hello-world
-The first one testing 
+print "Hello Worde"
